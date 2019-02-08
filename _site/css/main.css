@@ -1398,11 +1398,16 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 1.5rem; }
+
+.navbar-right {
+  margin-top: 1.5rem; }
+  .navbar-right a {
+    font-weight: bold; }
 
 .nav-logo {
   float: left !important;
-  max-width: 250px;
+  max-width: 130px;
   margin: 5px;
   padding: 10px; }
 
@@ -1414,7 +1419,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 250px;
+    max-width: 130px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
@@ -1492,7 +1497,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  height: 400px; }
+  height: 350px; }
 
 #hero {
   background-position: center;

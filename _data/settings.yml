@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "DC Metro's Best Real Estate Training"
+description: Jeff Wheatley, a top Real Estate Agent in The DC Metro, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,23 @@ custom_links:
 
 
 client:
-  name:
+  name: Jeff Wheatley
   title:
   license_number:
   about_markdown: |
+    Jeff Wheatley is passionate about serving his clients transform their lives through real estate. His extensive background in real estate, finance, and life coaching enables him to draw from a deep well of life experience as he helps his clients make long term, intelligent decisions. In a shifting real estate market and changing landscape, his expertise and and focus on long terms goals provide a rare breed of service.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Described by his peers and clients as smart, insightful and determined, Jeff goes beyond expectations in serving his clients. Jeff has has re-engineered the home seller process. He modeled his process after the best marketing practices in all industries. As a specific example, Jeff’s team launches a property through a carefully curated process with similarities to Apple’s launch process. His process builds anticipation and desire similar to the launch of iPhone 10XS. Contrast that to the last majority of his competition simple list a property by simply pray it sells.
+  market: DC Metro
+  brand: Jeff Wheatley Homes
+  brokerage: Keller Williams Capital Properties
+  address: '20 West Gude Drive #200<br>Rockville Md. 20850'
+  phone: 240-731-7578
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Jeff@JeffWheatleyHomes.com
+  url: http://www.JeffWheatleyHomes.com
 
 lender:
   show_section: false
@@ -44,10 +46,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/KWCPRockville
+  linkedin_url: https://www.linkedin.com/in/jeffreywheatley/
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCZR38Rvd7jWmmow5G7DdtPg
   twitter_url:
   instagram_url:
   pinterest_url:

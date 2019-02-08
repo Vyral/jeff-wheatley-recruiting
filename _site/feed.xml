@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description>-- CLIENT NAME --, a top Real Estate Agent in , shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
+    <title>DC Metro's Best Real Estate Training</title>
+    <description>Jeff Wheatley, a top Real Estate Agent in The DC Metro, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Feb 2019 16:14:38 -0600</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 16:14:38 -0600</lastBuildDate>
+    <pubDate>Fri, 08 Feb 2019 14:14:29 -0600</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 14:14:29 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>

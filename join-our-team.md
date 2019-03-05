@@ -41,17 +41,17 @@ permalink: /join-our-team/
 
 <p>Some of those resources that an agent who teams up with me will have access to are:
 <ul class="indent">
-<li>Personalized coaching</li>
-<li>Insight and expertise on script mastery</li>
+<li>Personalized coaching </li>
+<li>Insight and expertise on script mastery </li>
 <li>Success tools such as Mojo</li>
-<li>Teaching you the requisite skills to become a business owner in two to three years</li>
+Teaching you the requisite skills to become a business owner in two to three years
 </ul></p>
 
 <p>Working on my team means you’ll earn the money, control, and freedom that come with developing a well-designed plan and as you continue to strengthen your skills and knowledge as a sales and marketing professional. <strong>If there’s one thing I’m known for, it’s that I teach people how to think a little differently about their business.</strong></p>
 
 <p>Ultimately, your success or failure in real estate rests squarely on your shoulders. You can stay the course as a solo agent or fall for the pitch other teams make about Facebook leads that don’t show much promise to begin with and may not come through. Doing so will likely lead to a fast exit or failure to make much of a living.</p>
 
-<p>But don’t just take my word for it: (?) was a 19-year-old fresh out of high school when he came to me looking to land an opportunity. He didn’t have any business skills whatsoever, let alone in business management. Over a short period, we taught him how to set expired listing appointments at $300,000 and then eventually as much as $1.5 million. Relative to his age, (?) then learned to convert in face-to-face appointments at a very impressive level. He has since parted ways with us due to a family move, but today he works for a top 10 Berkshire Hathaway team.</p>
+<p>But don’t just take my word for it: Alec was a 19-year-old fresh out of high school when he came to me looking to land an opportunity. He didn’t have any business skills whatsoever, let alone in business management. Over a short period, we taught him how to set expired listing appointments at $300,000 and then eventually as much as $1.5 million. Relative to his age, Alec then learned to convert in face-to-face appointments at a very impressive level. He has since parted ways with us due to a family move, but today he works for a top 10 Berkshire Hathaway team.</p>
 
 <p>When you join our team, you’ll benefit from a 50/50 commission split right from the outset, and you won’t have to worry about marketing and transaction management—we’ll take on that responsibility for you. <strong>This way, our mutual goal will be to scale your earnings from 50% all the way up to 75%.</strong>  </p>
 
@@ -60,16 +60,15 @@ permalink: /join-our-team/
 <li>Teaching you how to think like a top-sale professional</li>
 <li>Shadowing and mimicking me as I go through the sales process</li>
 <li>After three weeks, you’ll lead the process</li>
-<li>You’ll continue the process and we tweak your approach </li>
+<li>You’ll continue the process and we tweak your approach</li>
 </ol></p>
 
 <p>In the face of the current market shift where lower commissions are a certainty, this opportunity could not come at a better time, so don’t let it pass you by. <strong>There’s no telling how much you can benefit from joining my team now and staying ahead of the highest number of competitors we’ve seen in our market since 2006,</strong> so please reach out today.  </p>
 
+
 <p>I very much look forward to speaking with you soon!</p>
 
-<p>{{site.data.settings.client.name}}</p>
-
-
+<p>Jeff Wheatley</p>
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 

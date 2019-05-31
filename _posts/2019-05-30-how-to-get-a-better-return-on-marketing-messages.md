@@ -31,7 +31,7 @@ About a month ago, a seasoned agent came to me because he was concerned about th
 
 **In the middle of the pyramid, there’s the word “what.”** Once you’ve determined who you’re sending your message to, you need to nail down what your message will be and what benefits it will offer. Again using the example of the agent I recently spoke with, we ultimately decided that his marketing message should focus on services, opportunities, and resources related to senior living options.&nbsp;
 
-**Finally, the bottom of the pyramid consists of the words “how” and “medium”.** These words represent the question “How will the inside sales agents deliver this message, and what medium will they use?” The way you deliver a marketing message, as well as the various materials and methods you use to send it out, will all have an impact on how it’s received. If you want to reach seniors, specifically, social media marketing will likely be less effective than direct mailers or another, more traditional method.
+**Finally, the bottom of the pyramid consists of the words “how” and “medium.”**&nbsp;These words represent the question “How will the inside sales agents deliver this message, and what medium will they use?” The way you deliver a marketing message, as well as the various materials and methods you use to send it out, will all have an impact on how it’s received. If you want to reach seniors, specifically, social media marketing will likely be less effective than direct mailers or another, more traditional method.
 
 When an inside sales team follows these prompts to develop a marketing plan, while always keeping the desired outcome in mind, you’re sure to see a much higher return than if they implemented a more random approach.&nbsp;
 

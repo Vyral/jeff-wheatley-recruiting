@@ -14,7 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-wheatly.jpg
+youtube_alternate_image: >-
+  /uploads/jeff-wheatley--is-your-isa-team-using-this-important-guide-youtube.jpg
 youtube_code: 'https://youtu.be/oWA_5Xqc08I'
 ---
 

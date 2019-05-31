@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get a Better Return on Marketing Messages
-date: 2019-05-31 14:26:47
+date: 2019-05-30 14:26:00
 tags:
 excerpt: >-
   What steps must an inside sales team follow to craft an effective marketing

@@ -34,10 +34,10 @@ After gaining insight into the seller’s needs, **write a clean offer** by foll
 
 Next, you should **work with an agent from an “icon” team.** That team should be known by the larger real estate community for its sterling reputation and serving the community as well as having good relationships with other Realtors. Your agent and their team should have “icon” status in four areas:&nbsp;
 
-* Credibility&nbsp;
-* The lender&nbsp;
-* The appraiser&nbsp;
-* The title agent
+1. Credibility&nbsp;
+2. The lender&nbsp;
+3. The appraiser&nbsp;
+4. The title agent
 
 Fourth, try to **combine contingencies** when writing your offer. Wherever possible, condense two, three, or even four contingencies into one. This too makes for a cleaner, more organized presentation.&nbsp;
 

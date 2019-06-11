@@ -14,7 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1-1.jpg
+youtube_alternate_image: >-
+  /uploads/jeff-wheatley---a-surefire-approach-to-winning-a-multiple-offer-situation-youtube.jpg
 youtube_code: 'https://youtu.be/ydD6SL1FcCY'
 ---
 
@@ -22,7 +23,7 @@ youtube_code: 'https://youtu.be/ydD6SL1FcCY'
 
 Today I’d like to talk about multiple offers and the formula that will help you, the buyer, win in these kinds of scenarios.&nbsp;
 
-No matter if you’re in a multiple-offer situation or not, it’s important to develop an understanding of the psychology of the seller. Once this is established, you’ll want to go straight to the listing agent and pick their brain for more information on the needs of the seller they’re representing—**the seller’s needs analysis,** as we like to call it. You can then determine how their needs parallel your own and craft an offer around that, which is sure to produce a win-win deal. &nbsp;&nbsp;
+No matter if you’re in a multiple-offer situation or not, it’s important to develop an understanding of the psychology of the seller. Once this is established, you’ll want to go straight to the listing agent and pick their brain for more information on the needs of the seller they’re representing—**the 'seller’s needs' analysis,** as we like to call it. You can then determine how their needs parallel your own and craft an offer around that, which is sure to produce a win-win deal. &nbsp;&nbsp;
 
 After gaining insight into the seller’s needs, **write a clean offer** by following three steps:&nbsp;
 

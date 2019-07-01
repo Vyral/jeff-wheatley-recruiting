@@ -22,6 +22,6 @@ What is the perfect schedule for a real estate agent? That’s what I’m going 
 
 For your convenience, I’ve cited timestamps below that will direct you to various points in the video above. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:
 
-0:55- The very first thing you should do when you get up in the morning<br>2:00- Why it’s important to review your goals, plans, and visualize each day<br>3:25- How reading and exercise fit into this morning schedule<br>4:35- How to begin your business day as a real estate agent<br>5:25- Why lead generation, lead follow up, and marketing are so crucial to starting the workday off right<br>6:43- The final step of the ideal morning routine
+0:55- The very first thing you should do when you get up in the morning<br>2:00- Why it’s important to review your goals and plans, and visualize each day<br>3:25- How reading and exercise fit into this morning schedule<br>4:35- How to begin your business day as a real estate agent<br>5:25- Why lead generation, lead follow-up, and marketing are so crucial to starting the workday off right<br>6:43- The final step of the ideal morning routine
 
 If you have any questions for me about anything on this schedule or anything else related to the real estate business at all, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;

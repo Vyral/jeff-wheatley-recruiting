@@ -16,5 +16,3 @@ youtube_code: VgjP0obsHaI
 Hear how Jeff Wheatley built his real estate business in Rockville, his tips for success, and his goals for the future.
 
 {% include youtube.html %}
-
-{% include pullquote.html %}

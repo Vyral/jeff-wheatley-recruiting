@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/rockville-md-real-estate-agent-interview-jeffs-story.html</loc>
+<lastmod>2019-07-23T11:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/what-does-the-perfect-agent-schedule-look-like.html</loc>
+<lastmod>2019-06-26T19:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/a-point-by-point-guide-to-winning-a-multiple-offer-situation.html</loc>
 <lastmod>2019-06-08T19:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/how-to-get-a-better-return-on-marketing-messages.html</loc>
 <lastmod>2019-05-30T09:26:00-05:00</lastmod>
-</url>
-<url>
-<loc>localhost:4000/rockville-md-real-estate-agent-interview-jeffs-story.html</loc>
-<lastmod>2019-05-14T15:50:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>

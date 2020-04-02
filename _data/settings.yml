@@ -38,10 +38,10 @@ client:
   market: DC Metro
   brand: The Wheatley Group
   brokerage: Re/Max Realty Services
-  address: '20 West Gude Drive #200<br>Rockville Md. 20850'
-  phone: 240-731-7578
+  address: '20 West Gude Dr #200<br>Rockville, MD 20850'
+  phone: (240) 731-7578
   phone_type: Direct
-  phone2: 301-251-1221
+  phone2: (301) 251-1221
   phone2_type: Office
   email: Jeff@JeffWheatleyHomes.com
   url: 'http://www.JeffWheatleyHomes.com'
